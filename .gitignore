@@ -1,3 +1,4 @@
 train/*
 validate/*
 test/*
+.ipynb_checkpoints/*
